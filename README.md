@@ -1,1 +1,4 @@
 # odin-project-foundations
+Starting November 1, 2022, I began working through Automate the Boring Stuff by Al Sweigart. However, after completing two chapters, I realized that I wanted to blog my process, but I didn't want to use Medium or a similar blogging site. I wanted the blog to be on my own, from-scratch website, along with links to my portfolio/projects. 
+
+Of course, I had no idea how to do this. After extensive "research", which should likely be renamed "browsing", I came accross The Odin Project. I liked its presentation style, and felt that it would be a suitable platform for me. Because it immediately threw me into learning, creating a dev environment, and learning strategies ABOUT learning, I felt like I could take the plunge. It is now November 6th, and I have advanced within the program to the point where it is time to begin coding, so here is my repository! 
