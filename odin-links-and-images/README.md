@@ -1,2 +1,2 @@
 # Foundations-Links-and-Images
-LOL I jumped ahead in making my blog site but sure I'll get more practice.
+LOL I jumped ahead in making my blog site but sure I'll get more practice. Edit: I am definitely glad to review this knowledge, because I learned about relative links, which will be invaluable in creating my full website later.
