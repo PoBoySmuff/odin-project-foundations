@@ -1,0 +1,1 @@
+Folder for exercises in The Odin Project's Git Basics chapter.
