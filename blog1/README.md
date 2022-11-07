@@ -1,3 +1,3 @@
 # blog-1
-## Created for Assignment 3 of the working-with-text lesson
+## Foundations-working-with-text Assignment 3
 I ended up doing a little more than the project description LOL
